@@ -1,0 +1,49 @@
+body {
+    background-image: url(ton.jpg);
+    background-size: cover;
+}
+.h1 {
+    font-style: italic;
+    color: wheat;
+}
+.h2 {
+    color: blue;
+}
+.h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: wheat;
+}
+.ilbarva1 {
+    color: wheat;
+}
+.ilbarva2 {
+    color: white;
+}
+.ilbarva3 {
+    color: red;
+}
+.ilbarva4 {
+    color: aqua;
+}
+.ilbarva5 {
+    color: green;
+}
+.ilbarva6 {
+    color: brown;
+}
+.ilbarva7 {
+    color: yellow;
+}
+.ultvar1 {
+    list-style-type: square;
+}
+.ultvar2 {
+    list-style-type: circle;
+}
+ul {
+    color: wheat;
+}
+.ulobrazek {
+    list-style-image: url(zem.jpg);
+    padding-left: 30px;
+}
